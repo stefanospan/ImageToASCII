@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe.config
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.exe
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\bin\Debug\ImageToASCII.pdb
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.Form1.resources
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.Properties.Resources.resources
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.exe
+C:\Users\stefa\source\repos\ImageToASCII\ImageToASCII\obj\Debug\ImageToASCII.pdb
